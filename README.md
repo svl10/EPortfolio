@@ -23,7 +23,7 @@ This is my EPortfolio which includes information about me, my projects, contacts
 
 # Credits to the bootstrap template used:
 Template URL:<a href="https://bootstrapmade.com/iportfolio-bootstrap-portfolio-websites-template/"> bootstrap</a>
-<p>Author: <a href="BootstrapMade.com">BootstrapMade</a></p>
+<p>Author: BootstrapMade</p>
 <p>License: <a href="https://bootstrapmade.com/license/">bootstrap</a></p>
 
 # How to replicate
